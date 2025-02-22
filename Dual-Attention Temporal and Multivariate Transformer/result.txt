@@ -1,0 +1,42 @@
+test_MTST_custom_ftS_sl360_ll0_pl24_dm256_nh8_el2_br1_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0_null_6,12,24  
+mse:0.2689097821712494, mae:0.3609386086463928, rse:0.5001022219657898
+
+test_MTST_custom_ftS_sl96_ll0_pl24_dm256_nh8_el2_br1_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0_null_6,12,24  
+mse:0.2726440727710724, mae:0.3507806658744812, rse:0.5035626292228699
+
+test_MTST_custom_ftMS_sl192_ll0_pl24_dm256_nh8_el2_br1_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0_null_6,12,24  
+mse:0.1322748363018036, mae:0.21378520131111145, rse:0.3566438555717468
+
+test_MTST_custom_ftMS_sl48_ll0_pl24_dm512_nh8_el2_br1_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0_null_6,12,24  
+mse:0.13753275573253632, mae:0.21784840524196625, rse:0.36366304755210876
+
+test_MTST_custom_ftMS_sl120_ll0_pl24_dm256_nh8_el2_br1_dl1_df256_fc1_ebtimeF_dtTrue_Exp_0_null_4,12,24  
+mse:0.13230057060718536, mae:0.21470676362514496, rse:0.3566785454750061
+
+test_MTST_custom_ftMS_sl96_ll0_pl16_dm256_nh8_el2_br1_dl1_df256_fc1_ebtimeF_dtTrue_Exp_0_null_4,8,16  
+mse:0.14438341557979584, mae:0.20003266632556915, rse:0.3752788007259369
+
+test_MTST_custom_ftMS_sl96_ll0_pl24_dm256_nh8_el2_br1_dl1_df256_fc1_ebtimeF_dtTrue_Exp_0_null_4,8,16  
+mse:0.21304504573345184, mae:0.25987887382507324, rse:0.4530840814113617
+
+test_MTST_custom_ftMS_sl96_ll0_pl16_dm256_nh8_el2_br1_dl1_df256_fc1_ebtimeF_dtTrue_Exp_0_null_4,8,16  
+mse:0.1579969972372055, mae:0.2048605978488922, rse:0.39017537236213684
+
+test_MTST_custom_ftMS_sl96_ll0_pl16_dm256_nh8_el2_br1_dl1_df256_fc1_ebtimeF_dtTrue_Exp_0_null_4,8,16  
+mse:0.15287405252456665, mae:0.20699213445186615, rse:0.4008431136608124
+
+test_MTST_custom_ftMS_sl96_ll0_pl12_dm256_nh8_el2_br1_dl1_df256_fc1_ebtimeF_dtTrue_Exp_0_null_4,8,12  
+mse:0.11513353884220123, mae:0.17079786956310272, rse:0.34787893295288086
+
+test_MTST_custom_ftMS_sl24_ll0_pl12_dm256_nh8_el2_br1_dl1_df256_fc1_ebtimeF_dtTrue_Exp_0_null_4,8,12  
+mse:0.1193278580904007, mae:0.1660730540752411, rse:0.354158878326416
+
+test_MTST_custom_ftMS_sl96_ll0_pl8_dm256_nh8_el2_br1_dl1_df256_fc1_ebtimeF_dtTrue_Exp_0_null_4,8,12  
+mse:0.07795605063438416, mae:0.13047829270362854, rse:0.28626370429992676
+
+test_MTST_custom_ftMS_sl96_ll0_pl8_dm256_nh8_el2_br1_dl1_df256_fc1_ebtimeF_dtTrue_Exp_0_null_4,8,12  
+mse:0.08328261226415634, mae:0.1367522031068802, rse:0.2958820164203644 no cross
+
+test_MTST_custom_ftMS_sl96_ll0_pl4_dm256_nh8_el2_br1_dl1_df256_fc1_ebtimeF_dtTrue_Exp_0_null_4,8,12  
+mse:0.03347233310341835, mae:0.08267536014318466, rse:0.18758194148540497
+
